@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Yevhenii Ponomar"
+  },
+  "description": "generate shades from base color, based on `color.luminosity` (WCAG)",
+  "keywords": [
+    "color",
+    "lighten",
+    "darken",
+    "shades"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@therobot/luma-shades",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3",
+  "dependencies": {
+    "color": "^3.1.0"
+  }
+}
